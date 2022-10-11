@@ -22,11 +22,12 @@ var areaOfTriangle=function(base,height){
    areaOfTriangle(45,34);
 console.log("==============================================");
 console.log("area of reactangle");
+
 var areaOfrectangle=function(length,width){
     console.log( length*width);
    }
    console.log("area of rectangle");
-   areaOfTriangle(499,917);
+   areaOfrectangle(499,917);
    console.log("===============================================");
    console.log("Swap values");
 
