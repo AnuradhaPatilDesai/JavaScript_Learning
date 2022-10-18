@@ -1,4 +1,4 @@
-console.log("============================");
+console.log("Even positioned chars on console");
 function evenPositionedChars(myString){
     for (let index = 0; index < myString.length; index++) {
        // console.log(index%2==0);
@@ -16,6 +16,7 @@ console.log(`Even positioned chars not consider empty spaces for string :"Soon I
 evenPositionedChars("Soon I will be Angular IT Champ");
 
 console.log("----------------------------------------------------------------------------");
+console.log("Odd positioned chars on console");
 function oddPositionedChars(myString){
    for (let index = 0; index < myString.length; index++) {
       // console.log(index%2==0);
